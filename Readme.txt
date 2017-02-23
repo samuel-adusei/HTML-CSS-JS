@@ -1,0 +1,1 @@
+This is the second development of my journey to become a junior web developer this will display all the new skills i have learnt and will work on and some projects.
